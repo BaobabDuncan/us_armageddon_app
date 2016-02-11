@@ -1,0 +1,127 @@
+
+#dDay{
+	width: 320px !important;
+    height: 459px !important;
+}
+
+
+.created{	
+	font-size: 0.7em !important;
+	float: right;
+}
+p.message {
+	
+	margin-top:6px;
+	font-size:0.9em;
+	word-break:break-all;
+}
+
+.board-item {	
+	width: 100%;  
+}
+
+
+div#result{
+	border: 1px solid #DDD;
+	-webkit-border-radius: 0.4em;
+	border-radius: 0.4em;
+	background: white none;
+	padding : 15px;
+}
+
+div#result p{
+	margin-top : 1em;
+	margin-bottom : 1em;
+}
+div#result p.title{
+	margin-top : 0em;
+	font-weight: bold;
+	font-size : 1.2em;
+}
+
+div#result p.image{
+	text-align: center;
+}
+
+div#result p img {
+	width: 280px;
+	height: 230px;
+	padding:1px;
+	border:1px solid #021a40;
+	background-color:#ff0;
+}
+
+div#result p.description{
+	
+}
+div.d_day{
+	padding : 15px;	
+}
+
+div.d_day p.title{
+	text-align:center!important;
+	font-size : 1.3em;
+}
+
+.dDay-body{
+	margin-top:35px;
+}
+#container{
+	width:auto;
+	border: 1px solid #000000;
+	padding: 15px;
+	margin : 15px;
+	background-color: rgba(0, 0, 0, .2);
+	margin-top:35px;
+}
+#container h1{
+	text-align:center;
+}
+p#time{
+	color:#c21017;
+	text-align: center;
+	font-size:1.5em;
+}
+p#time .cd-time{
+	display:inline;
+	color:#222222;
+	font-size:1.0em;
+}
+
+
+
+
+div#uksmart_info{
+	text-align : center;
+}
+div#uksmart_info p {
+	
+	font-size:0.8em;
+	padding-bottom : 5px;
+}
+
+div#uksmart_info a {
+	
+	font-weight: bold;
+	color: blue;
+	text-decoration: none;
+	font-size:0.95em;
+}
+
+
+
+div.writeboard_info{
+	text-align : center;
+	background-color: #262626;
+	color : #fff;
+	padding : 10px;
+	font-size:0.6em;
+}
+
+
+
+
+
+
+
+
